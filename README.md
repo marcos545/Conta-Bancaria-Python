@@ -1,2 +1,2 @@
 Meu Primeiro Projeto Com Python !
-Projeto Conta Bancaria. onde as pessoa consegue transferir, depositar,e sacar, e ver o extrato.
+Projeto conta bancaria, baseada na programação orientada a objetos. usando a class e definindo as funções, nesse sistema tem como transferir, sacar, ver extrato, depositar,e os saque tem taxas de saque.
